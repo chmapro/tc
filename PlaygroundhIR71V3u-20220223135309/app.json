@@ -1,0 +1,40 @@
+{
+  "pages": [
+    "pages/shouye/shouye",
+    "pages/xiangqingye/xiangqingye",
+    "pages/wode/wode"
+  ],
+  "window": {
+    "backgroundTextStyle": "dark",
+    "navigationBarBackgroundColor": "#0094ff",
+    "navigationBarTitleText": "ONES APP",
+    "navigationBarTextStyle": "black",
+    "enablePullDownRefresh": true
+  },
+  "tabBar": {
+    "list": [
+      {
+        "pagePath": "pages/shouye/shouye",
+        "text": "首页",
+        "iconPath": "icon/icon_home_line.png",
+        "selectedIconPath": "icon/icon_home_fill.png",
+        "selectedColor": "#09BB07"
+      },
+      {
+        "pagePath": "pages/xiangqingye/xiangqingye",
+        "text": "购物车",
+        "iconPath": "icon/icon_cart_line.png",
+        "selectedIconPath": "icon/icon_cart_fill.png",
+        "selectedColor": "#09BB07"
+      },
+      {
+        "pagePath": "pages/wode/wode",
+        "text": "我的",
+        "iconPath": "icon/icon_me_line.png",
+        "selectedIconPath": "icon/icon_me_fill.png",
+        "selectedColor": "#09BB07"
+      }
+    ]
+  },
+  "sitemapLocation": "sitemap.json"
+}

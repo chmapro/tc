@@ -1,0 +1,43 @@
+<view class="flex-col page">
+  <view class="flex-col group_3">
+    <view class="flex-col">
+      <view class="flex-col">
+        <text decode="decode" class="text_2">东北林业大学复合益生菌研发小组</text>
+        <text decode="decode" class="text_3">产品详情</text>
+      </view>
+      <image src="http://aphelion.zone/wp-content/uploads/2022/02/glass.png" class="image_4" />
+    </view>
+    <view class="flex-col group_6">
+      <text decode="decode" class="text_4">简介</text>
+      <text decode="decode" class="text_5">该项目针对传统的秸秆处理方式包括堆肥腐解，深埋腐解等所暴露出来的费时费力，腐解不完全进行针对性的问题解决，采用低温秸秆腐解复合菌开展稻秆全量原位腐解还田，同时解决秸秆焚烧污染环境以及土壤耕层逐年递减的难题。秸秆原位腐解还田最大限度的降低秸秆生产有机肥过程中的秸秆运输、制作的能源动力、人力、财力经济投资。</text>
+    </view>
+    <view class="flex-col group_7">
+      <text decode="decode" class="text_6">价格</text>
+      <text decode="decode" class="text_7">定制方案</text>
+      <view class="justify-between group_8">
+        <text decode="decode" class="text_8">方案一</text>
+        <view class="flex-row">
+          <text decode="decode" class="text_9">¥120</text>
+          <text decode="decode" class="text_10">起/亩/季</text>
+        </view>
+      </view>
+      <view class="justify-between group_10">
+        <text decode="decode" class="text_11">方案二</text>
+        <view class="flex-row">
+          <text decode="decode" class="text_12">¥240</text>
+          <text decode="decode" class="text_13">起/亩/季</text>
+        </view>
+      </view>
+      <view class="justify-between group_12">
+        <text decode="decode" class="text_14">方案三</text>
+        <view class="flex-row">
+          <text decode="decode" class="text_15">¥360</text>
+          <text decode="decode" class="text_16">起/亩/季</text>
+        </view>
+      </view>
+    </view>
+    <!-- <view class="flex-col items-center button">
+      <text decode="decode">预约参观</text>
+    </view> -->
+  </view>
+</view>

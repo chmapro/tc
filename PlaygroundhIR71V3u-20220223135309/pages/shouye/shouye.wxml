@@ -1,0 +1,67 @@
+<view class="flex-col container">
+  <view class="flex-col group_2">
+    <image src="http://aphelion.zone/wp-content/uploads/2022/02/tiandi.png" class="image_3" />
+    <view class="flex-row equal-division">
+      <view class="equal-division-item flex-col items-center">
+        <image src="https://project-user-resource-1256085488.cos.ap-guangzhou.myqcloud.com/5eedc9543259190011441867/60c321886d32e90012f09dc4/16234010113644013648.png" class="image_4" />
+        <text decode="decode" class="text_2">使用说明</text>
+      </view>
+      <view class="equal-division-item flex-col items-center">
+        <image src="https://project-user-resource-1256085488.cos.ap-guangzhou.myqcloud.com/5eedc9543259190011441867/60c321886d32e90012f09dc4/16234010113644167452.png" class="image_4" />
+        <text decode="decode" class="text_2">问题反馈</text>
+      </view>
+      <view class="equal-division-item flex-col items-center">
+        <image src="https://project-user-resource-1256085488.cos.ap-guangzhou.myqcloud.com/5eedc9543259190011441867/60c321886d32e90012f09dc4/16234010113669698766.png" class="image_4" />
+        <text decode="decode" class="text_2">有机果蔬</text>
+      </view>
+      <view class="equal-division-item flex-col items-center">
+        <image src="https://project-user-resource-1256085488.cos.ap-guangzhou.myqcloud.com/5eedc9543259190011441867/60c321886d32e90012f09dc4/16234010113663525642.png" class="image_4" />
+        <text decode="decode" class="text_6">咨询热线</text>
+      </view>
+    </view>
+    <view class="flex-col group_6">
+      <text decode="decode" class="text_7">热门菌剂</text>
+      <view class="flex-col list">
+        <view class="list-item flex-row">
+          <image src="http://aphelion.zone/wp-content/uploads/2022/02/farmer.png" class="image_8" />
+          <view class="right-group flex-col">
+            <view class="top-group flex-col">
+              <text decode="decode" class="text_8">复合益生菌1</text>
+              <text decode="decode" class="text_10">复合益生菌YYDS</text>
+            </view>
+            <view class="bottom-group justify-end">
+              <text decode="decode" class="text_12">¥120</text>
+              <text decode="decode" class="text_14">起/亩/季</text>
+            </view>
+          </view>
+        </view>
+        <view class="list-item flex-row group_8">
+          <image src="http://aphelion.zone/wp-content/uploads/2022/02/bingpeng.png" class="image_8" />
+          <view class="right-group flex-col">
+            <view class="top-group flex-col">
+              <text decode="decode" class="text_8">复合益生菌2</text>
+              <text decode="decode" class="text_10">复合益生菌YYDS</text>
+            </view>
+            <view class="bottom-group justify-end">
+              <text decode="decode" class="text_12">¥240</text>
+              <text decode="decode" class="text_14">起/亩/季</text>
+            </view>
+          </view>
+        </view>
+        <view class="list-item flex-row group_9">
+          <image src="http://aphelion.zone/wp-content/uploads/2022/02/tuolaji.png" class="image_8" />
+          <view class="right-group flex-col">
+            <view class="top-group flex-col">
+              <text decode="decode" class="text_8">复合益生菌3</text>
+              <text decode="decode" class="text_10">复合益生菌YYDS</text>
+            </view>
+            <view class="bottom-group justify-end">
+              <text decode="decode" class="text_12">¥360</text>
+              <text decode="decode" class="text_14">起/亩/季</text>
+            </view>
+          </view>
+        </view>
+      </view>
+    </view>
+  </view>
+</view>
